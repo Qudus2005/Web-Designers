@@ -1,0 +1,1203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.welcome-section{
+    width: 100%;
+    height: 30rem;
+    background-image: url(./Images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+    font-size: 30px;
+    }
+    h1 span{
+        color: gold;
+    }
+    .welcome-text{
+        font-size: 50px;
+        color: white;
+        margin-left: 40%;
+        text-align: center;
+    }
+    .flex{
+        display: flex;
+        justify-content: center;
+    }
+    .box{
+        border: 2px solid white;
+        width: 150px;
+        height: 10px;
+        margin-top: 40px;
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
+    }
+    p{
+        color: white;
+        font-size: 15px;
+        margin-top: 30px;
+    }
+    .col-1{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .tools{
+        width: 100%;
+        height: 50%;
+        background-color: gray;
+    }
+    .tools em{
+        font-size: 40px;
+    color: white;
+    }
+    .tools p{
+font-size: 30px;
+        color: white;
+        text-align: center;
+    }
+    .box1{
+        width: 72%;
+        height: 22rem;
+        background-image: url(./Images/firefox-browser.svg);
+        background-size: cover;
+    }
+    
+    .box2{
+        width: 72%;
+        height: 22rem;
+        background-image: url(./Images/safari.svg);
+        background-size: cover;
+    }
+    
+    .box3{
+        width: 72%;
+        height:22rem;
+        background-image: url(./Images/google.svg);
+        background-size: cover;
+    }
+    .box4{
+        width: 72%;
+        height: 22rem;
+        background-image: url(./Images/chrome.svg);
+        background-size: cover;
+    }
+    .box5{
+        width: 72%;
+        height: 29rem;
+        background-image: url(./Images/css3-alt.svg);
+        background-size: cover;
+    }
+    .box6{
+        width: 72%;
+        height: 29rem;
+        background-image: url(./Images/html5.svg);
+        background-size: cover;
+    }
+    .box7{
+        width: 72%;
+        height: 28rem;
+        background-image: url(./Images/js.svg);
+        background-size: cover;
+    }
+    
+    .col-2{
+        display: flex;
+    }
+    .box8{
+        width: 72%;
+        height: 30rem;
+        background-image: url(./Images/stack-overflow.svg);
+        background-size: cover;
+    }
+    .box9{
+        width: 72%;
+        height: 29rem;
+        background-image: url(./Images/github.svg);
+        background-size: cover;
+    }
+    .box10{
+            width: 70%;
+            height: 29rem;
+            background-image: url(./Images/free-code-camp.svg);
+            background-size: cover;
+        }
+        .col-3{
+            display: flex;
+        }
+        .box11{
+            width: 72%;
+            height: 40rem;
+            background-image: url(./Images/visual-studio-code-1.svg);
+            background-size: cover;
+        }
+        .box12{
+            width: 72%;
+            height: 40rem;
+            background-image: url(./Images/notepad-icon-17542.png);
+            background-size: cover;
+        }
+        .col-4{
+            display: flex;
+        }
+        
+        .services{
+            width: 100%;
+            height: 50%;
+            background-image: url(./Images/luca-bravo-XJXWbfSo2f0-unsplash.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        .services em{
+            text-align: center;
+            font-size: 30px;
+            color: white;
+        }
+        .row{
+            display: flex;
+        }
+        h2{
+            margin-top: 30%;
+            margin-left: 20%;
+            color: black;
+            font-size: 40px;
+        }
+        .row-box1{
+          width: 100%;
+          height: 22rem;  
+          background-image: url(./Images/16578a05c2b9558.jpg);
+          background-size: cover;
+        }
+        .row-box2{
+            width: 100%;
+            height: 22rem;  
+            background-image: url(./Images/1257fe0931774fc.jpg);
+            background-size: cover;
+          }
+          .row-box3{
+             width: 100%;
+            height: 22rem;  
+            background-image: url(./Images/e0f71ce6047b77e8f9a6b32f58cd1067.jpg);
+            background-size: cover;
+          }
+          .advices{
+            background-color: gray;
+            width: 100%;
+            height: 50%;
+          }
+          .advices em{
+            color: white;
+            font-size: 30px;
+          }
+          .row-box4{
+            width: 100%;
+           height: 22rem;  
+           background-image: url(./Images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
+           background-size: cover;
+         }
+         .row-box5{
+            width: 100%;
+           height: 22rem;  
+           background-image: url(./Images/kevin-bhagat-zNRITe8NPqY-unsplash.jpg);
+           background-size: cover;
+         }
+         .row-box5 h3{
+            color: black;
+            margin-left: 30%;
+         }
+
+         h3{
+            font-size: 30px;
+            color: white;
+            margin-top: 30%;
+         }
+         .row-box6{
+            width: 100%;
+           height: 22rem;  
+           background-image: url(./Images/pngtree-cartoon-h5-page-web-design-cartoon-takeaway-brother-png-image_381052.jpg);
+           background-size: cover;
+         }
+         .row-box6 h3{
+            color: black;
+         }
+         .about{
+            background-color: black;
+            width: 100%;
+            height: 50%;
+         }
+         #about-box{
+            border-radius: 5px;
+            width: 100%;
+            height: 23rem;
+            background-color: gray;
+         }
+         #admin-pics{
+            width: 200px;
+            height: 185px;
+            background-image: url(./Images/Qudus\ Admin\ 3.jpg);
+            background-size: cover;
+            margin-left: 40%;
+            margin-top: 10px;
+         }
+          h5{
+            text-align: center;
+            font-size: 30px;
+color: white;
+         }
+         #about-box p{
+            font-size: 18px;
+         }
+         .col-6{
+            display: flex;
+            justify-content: center;
+            gap: 5px;
+         }
+         .red{
+            border: 5px solid white;
+            border-radius: 100%;
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            transition: ease-in .1s;
+         }
+         .red:hover{
+width: 55px;
+height: 55px;
+         }
+         
+         .green{
+            border: 5px solid white;
+            border-radius: 100%;
+            width: 50px;
+            height: 50px;
+            background-color: green;
+            transition: ease-in .1s;
+         }
+         .green:hover{
+            width: 55px;
+            height: 55px;
+                     }
+         .blue{
+            border: 5px solid white;
+            border-radius: 100%;
+            width: 50px;
+            height: 50px;
+            background-color: blue;
+            transition: ease-in .1s;
+        }
+         .blue:hover{
+            width: 55px;
+            height: 55px;
+                     }
+         .brown{
+                border: 5px solid white;
+            border-radius: 100%;
+            width: 50px;
+            height: 50px;
+            background-color: brown;
+            transition: ease-in .1s; 
+        }
+         .brown:hover{
+            width: 55px;
+            height: 55px;
+                     }
+                    .footer-flex{
+                        display: flex;
+                        justify-content: space-between;
+                    }
+                    footer{
+                        background-color: coral;
+                        height: 50%;
+                        width: 100%;
+                    }
+                    footer h2{
+                        color: white;
+                        font-size: 30px;
+                    }
+                    footer h2 span{
+                        color: gold;
+                    }
+                    footer p{
+                        font-size: 20px;
+                    }
+                    .container2 h3{
+                        font-size: 30px;
+                        color: white;
+                    }
+                    .container2 li{
+                        list-style-type: none;
+                        
+                    }
+                    .container2 li a{
+                        text-decoration: none;
+                        font-size: 20px;
+                        color: black;
+                    }
+                    .container2 li a:hover{
+                        text-decoration: underline;
+                        color: gold;
+                    }
+                    .container3 h4{
+                        font-size: 30px;
+                    color: white;
+                    }
+
+@media screen and (min-width:1024px) and (max-width:2560px) {
+    
+    .welcome-section{
+        width: 100%;
+        height: 30rem;
+        background-image: url(./Images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    h1{
+        color: white;
+        font-size: 30px;
+        }
+        h1 span{
+            color: gold;
+        }
+        .welcome-text{
+            font-size: 50px;
+            color: white;
+            margin-left: 40%;
+            text-align: center;
+        }
+        .flex{
+            display: flex;
+            justify-content: center;
+        }
+        .box{
+            border: 2px solid white;
+            width: 150px;
+            height: 10px;
+            margin-top: 40px;
+            border-bottom: none;
+            border-left: none;
+            border-right: none;
+        }
+        p{
+            color: white;
+            font-size: 15px;
+            margin-top: 30px;
+        }
+        .col-1{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .tools{
+            width: 100%;
+            height: 50%;
+            background-color: gray;
+        }
+        .tools em{
+            font-size: 40px;
+        color: white;
+        }
+        .tools p{
+    font-size: 30px;
+            color: white;
+            text-align: center;
+        }
+        .box1{
+            width: 72%;
+            height: 22rem;
+            background-image: url(./Images/firefox-browser.svg);
+            background-size: cover;
+        }
+        
+        .box2{
+            width: 72%;
+            height: 22rem;
+            background-image: url(./Images/safari.svg);
+            background-size: cover;
+        }
+        
+        .box3{
+            width: 72%;
+            height:22rem;
+            background-image: url(./Images/google.svg);
+            background-size: cover;
+        }
+        .box4{
+            width: 72%;
+            height: 22rem;
+            background-image: url(./Images/chrome.svg);
+            background-size: cover;
+        }
+        .box5{
+            width: 72%;
+            height: 29rem;
+            background-image: url(./Images/css3-alt.svg);
+            background-size: cover;
+        }
+        .box6{
+            width: 72%;
+            height: 29rem;
+            background-image: url(./Images/html5.svg);
+            background-size: cover;
+        }
+        .box7{
+            width: 72%;
+            height: 28rem;
+            background-image: url(./Images/js.svg);
+            background-size: cover;
+        }
+        
+        .col-2{
+            display: flex;
+        }
+        .box8{
+            width: 72%;
+            height: 30rem;
+            background-image: url(./Images/stack-overflow.svg);
+            background-size: cover;
+        }
+        .box9{
+            width: 72%;
+            height: 29rem;
+            background-image: url(./Images/github.svg);
+            background-size: cover;
+        }
+        .box10{
+                width: 70%;
+                height: 29rem;
+                background-image: url(./Images/free-code-camp.svg);
+                background-size: cover;
+            }
+            .col-3{
+                display: flex;
+            }
+            .box11{
+                width: 72%;
+                height: 40rem;
+                background-image: url(./Images/visual-studio-code-1.svg);
+                background-size: cover;
+            }
+            .box12{
+                width: 72%;
+                height: 40rem;
+                background-image: url(./Images/notepad-icon-17542.png);
+                background-size: cover;
+            }
+            .col-4{
+                display: flex;
+            }
+            
+            .services{
+                width: 100%;
+                height: 50%;
+                background-image: url(./Images/luca-bravo-XJXWbfSo2f0-unsplash.jpg);
+                background-size: cover;
+                background-attachment: fixed;
+            }
+            .services em{
+                text-align: center;
+                font-size: 30px;
+                color: white;
+            }
+            .row{
+                display: flex;
+            }
+            h2{
+                margin-top: 30%;
+                margin-left: 20%;
+                color: black;
+                font-size: 40px;
+            }
+            .row-box1{
+              width: 100%;
+              height: 22rem;  
+              background-image: url(./Images/16578a05c2b9558.jpg);
+              background-size: cover;
+            }
+            .row-box2{
+                width: 100%;
+                height: 22rem;  
+                background-image: url(./Images/1257fe0931774fc.jpg);
+                background-size: cover;
+              }
+              .row-box3{
+                 width: 100%;
+                height: 22rem;  
+                background-image: url(./Images/e0f71ce6047b77e8f9a6b32f58cd1067.jpg);
+                background-size: cover;
+              }
+              .advices{
+                background-color: gray;
+                width: 100%;
+                height: 50%;
+              }
+              .advices em{
+                color: white;
+                font-size: 30px;
+              }
+              .row-box4{
+                width: 100%;
+               height: 22rem;  
+               background-image: url(./Images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
+               background-size: cover;
+             }
+             .row-box5{
+                width: 100%;
+               height: 22rem;  
+               background-image: url(./Images/kevin-bhagat-zNRITe8NPqY-unsplash.jpg);
+               background-size: cover;
+             }
+             .row-box5 h3{
+                color: black;
+                margin-left: 30%;
+             }
+    
+             h3{
+                font-size: 30px;
+                color: white;
+                margin-top: 30%;
+             }
+             .row-box6{
+                width: 100%;
+               height: 22rem;  
+               background-image: url(./Images/pngtree-cartoon-h5-page-web-design-cartoon-takeaway-brother-png-image_381052.jpg);
+               background-size: cover;
+             }
+             .row-box6 h3{
+                color: black;
+             }
+             .about{
+                background-color: black;
+                width: 100%;
+                height: 50%;
+             }
+             #about-box{
+                border-radius: 5px;
+                width: 100%;
+                height: 23rem;
+                background-color: gray;
+             }
+             #admin-pics{
+                width: 200px;
+                height: 185px;
+                background-image: url(./Images/Qudus\ Admin\ 3.jpg);
+                background-size: cover;
+                margin-left: 40%;
+                margin-top: 10px;
+             }
+              h5{
+                text-align: center;
+                font-size: 30px;
+    color: white;
+             }
+             #about-box p{
+                font-size: 18px;
+             }
+             .col-6{
+                display: flex;
+                justify-content: center;
+                gap: 5px;
+             }
+             .red{
+                border: 5px solid white;
+                border-radius: 100%;
+                width: 50px;
+                height: 50px;
+                background-color: red;
+                transition: ease-in .1s;
+             }
+             .red:hover{
+    width: 55px;
+    height: 55px;
+             }
+             
+             .green{
+                border: 5px solid white;
+                border-radius: 100%;
+                width: 50px;
+                height: 50px;
+                background-color: green;
+                transition: ease-in .1s;
+             }
+             .green:hover{
+                width: 55px;
+                height: 55px;
+                         }
+             .blue{
+                border: 5px solid white;
+                border-radius: 100%;
+                width: 50px;
+                height: 50px;
+                background-color: blue;
+                transition: ease-in .1s;
+            }
+             .blue:hover{
+                width: 55px;
+                height: 55px;
+                         }
+             .brown{
+                    border: 5px solid white;
+                border-radius: 100%;
+                width: 50px;
+                height: 50px;
+                background-color: brown;
+                transition: ease-in .1s; 
+            }
+             .brown:hover{
+                width: 55px;
+                height: 55px;
+                         }
+                        .footer-flex{
+                            display: flex;
+                            justify-content: space-between;
+                        }
+                        footer{
+                            background-color: coral;
+                            height: 50%;
+                            width: 100%;
+                        }
+                        footer h2{
+                            color: white;
+                            font-size: 30px;
+                        }
+                        footer h2 span{
+                            color: gold;
+                        }
+                        footer p{
+                            font-size: 20px;
+                        }
+                        .container2 h3{
+                            font-size: 30px;
+                            color: white;
+                        }
+                        .container2 li{
+                            list-style-type: none;
+                            
+                        }
+                        .container2 li a{
+                            text-decoration: none;
+                            font-size: 20px;
+                            color: black;
+                        }
+                        .container2 li a:hover{
+                            text-decoration: underline;
+                            color: gold;
+                        }
+                        .container3 h4{
+                            font-size: 30px;
+                        color: white;
+                        }
+
+
+
+}
+
+
+                    @media screen and (min-width:240px) and (max-width:499px) {
+                        .welcome-section{
+                            width: 100%;
+                            height: 20rem;
+                            background-image: url(./Images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
+                            background-size: cover;
+                            background-attachment: fixed;
+                        }
+                        h1{
+                            color: white;
+                            font-size: 30px;
+                            }
+                            h1 span{
+                                color: gold;
+                            }
+                            .welcome-text{
+                                font-size: 50px;
+                                color: white;
+                                /* margin-left: 20%; */
+                                text-align: center;
+                            }
+                            .flex{
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: space-between;
+                            }
+                            .box{
+                                border: 2px solid white;
+                                width: 100px;
+                                height: 10px;
+                                margin-top: 40px;
+                                border-bottom: none;
+                                border-left: none;
+                                border-right: none;
+                            }
+                            p{
+                                color: white;
+                                font-size: 15px;
+                                margin-top: 30px;
+                            }
+                            .col-1{
+                                display: flex;
+                                flex-direction: column;
+                                gap: 2rem;
+                                align-items: center;
+                            }
+                            .tools{
+                                width: 100%;
+                                height: 50%;
+                                background-color: gray;
+                            }
+                            .tools em{
+                                font-size: 40px;
+                            color: white;
+                            }
+                            .tools p{
+                        font-size: 30px;
+                                color: white;
+                                text-align: center;
+                            }
+                            .box1{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/firefox-browser.svg);
+                            }
+                            
+                            .box2{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/safari.svg);
+                                background-size: cover;
+                            }
+                            
+                            .box3{
+                                border: 2px solid black;
+                                width: 100%;
+                                height:22rem;
+                                background-image: url(./Images/google.svg);
+                                background-size: cover;
+                            }
+                            .box4{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/chrome.svg);
+                                background-size: cover;
+                            }
+                            .box5{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 25rem;
+                                background-image: url(./Images/css3-alt.svg);
+                                background-size: cover;
+                            }
+                            .box6{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 25rem;
+                                background-image: url(./Images/html5.svg);
+                                background-size: cover;
+                            }
+                            .box7{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/js.svg);
+                                background-size: cover;
+                            }
+                            
+                            .col-2{
+                                display: flex;
+                                flex-direction: column;
+                                gap: 2rem;
+                                align-items: center;
+                            }
+                            .box8{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/stack-overflow.svg);
+                                background-size: cover;
+                            }
+                            .box9{
+                                border: 2px solid black;
+                                width: 100%;
+                                height: 22rem;
+                                background-image: url(./Images/github.svg);
+                                background-size: cover;
+                            }
+                            .box10{
+                                    border: 2px solid black;
+                                    width: 100%;
+                                    height: 22rem;
+                                    background-image: url(./Images/free-code-camp.svg);
+                                    background-size: cover;
+                                }
+                                .col-3{
+                                    display: flex;
+                                    flex-direction: column;
+                                    gap: 2rem;
+                                    align-items: center;
+                                }
+                                .box11{
+                                    border: 2px solid black;
+                                    width: 100%;
+                                    height: 22rem;
+                                    background-image: url(./Images/visual-studio-code-1.svg);
+                                    background-size: cover;
+                                }
+                                .box12{
+                                    border: 2px solid black;
+                                    width: 100%;
+                                    height: 22rem;
+                                    background-image: url(./Images/notepad-icon-17542.png);
+                                    background-size: cover;
+                                }
+                                .col-4{
+                                    display: flex;
+                                    flex-direction: column;
+                                    gap: 2rem;
+                                    align-items: center;
+                                }
+                                
+                                .services{
+                                    width: 100%;
+                                    height: 50%;
+                                    background-image: url(./Images/luca-bravo-XJXWbfSo2f0-unsplash.jpg);
+                                    background-size: cover;
+                                    background-attachment: fixed;
+                                }
+                                .services em{
+                                    text-align: center;
+                                    font-size: 30px;
+                                    color: white;
+                                }
+                                .row{
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                    gap: 2rem;
+                                }
+                                h2{
+                                    margin-top: 30%;
+                                    margin-left: 20%;
+                                    color: black;
+                                    font-size: 40px;
+                                }
+                                .row-box1{
+                                  width: 100%;
+                                  height: 22rem;  
+                                  background-image: url(./Images/16578a05c2b9558.jpg);
+                                  background-size: cover;
+                                }
+                                .row-box2{
+                                    width: 100%;
+                                    height: 22rem;  
+                                    background-image: url(./Images/1257fe0931774fc.jpg);
+                                    background-size: cover;
+                                  }
+                                  .row-box3{
+                                     width: 100%;
+                                    height: 22rem;  
+                                    background-image: url(./Images/e0f71ce6047b77e8f9a6b32f58cd1067.jpg);
+                                    background-size: cover;
+                                  }
+                                  .advices{
+                                    background-color: gray;
+                                    width: 100%;
+                                    height: 50%;
+                                  }
+                                  .advices em{
+                                    color: white;
+                                    font-size: 30px;
+                                  }
+                                  .row-box4{
+                                    width: 100%;
+                                   height: 22rem;  
+                                   background-image: url(./Images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg);
+                                   background-size: cover;
+                                 }
+                                 .row-box5{
+                                    width: 100%;
+                                   height: 22rem;  
+                                   background-image: url(./Images/kevin-bhagat-zNRITe8NPqY-unsplash.jpg);
+                                   background-size: cover;
+                                 }
+                                 .row-box5 h3{
+                                    color: black;
+                                    margin-left: 30%;
+                                 }
+                        
+                                 h3{
+                                    font-size: 30px;
+                                    color: white;
+                                    margin-top: 30%;
+                                 }
+                                 .row-box6{
+                                    width: 100%;
+                                   height: 22rem;  
+                                   background-image: url(./Images/pngtree-cartoon-h5-page-web-design-cartoon-takeaway-brother-png-image_381052.jpg);
+                                   background-size: cover;
+                                 }
+                                 .row-box6 h3{
+                                    color: black;
+                                 }
+                                 .about{
+                                    background-color: black;
+                                    width: 100%;
+                                    height: 26rem;
+                                 }
+                                 #about-box{
+                                    border-radius: 5px;
+                                    width: 100%;
+                                    height: 26rem;
+                                    background-color: gray;
+                                 }
+                                 #admin-pics{
+                                    width: 100px;
+                                    height: 100px;
+                                    background-image: url(./Images/Qudus\ Admin\ 3.jpg);
+                                    background-size: cover;
+                                    margin-left: 40%;
+                                    margin-top: 10px;
+                                 }
+                                  h5{
+                                    text-align: center;
+                                    font-size: 30px;
+                        color: white;
+                                 }
+                                 #about-box p{
+                                    font-size: 18px;
+                                 }
+                                 .col-6{
+                                    display: flex;
+                                    justify-content: center;
+                                    gap: 5px;
+                                 }
+                                 .red{
+                                    border: 5px solid white;
+                                    border-radius: 100%;
+                                    width: 50px;
+                                    height: 50px;
+                                    background-color: red;
+                                    transition: ease-in .1s;
+                                 }
+                                 .red:hover{
+                        width: 55px;
+                        height: 55px;
+                                 }
+                                 
+                                 .green{
+                                    border: 5px solid white;
+                                    border-radius: 100%;
+                                    width: 50px;
+                                    height: 50px;
+                                    background-color: green;
+                                    transition: ease-in .1s;
+                                 }
+                                 .green:hover{
+                                    width: 55px;
+                                    height: 55px;
+                                             }
+                                 .blue{
+                                    border: 5px solid white;
+                                    border-radius: 100%;
+                                    width: 50px;
+                                    height: 50px;
+                                    background-color: blue;
+                                    transition: ease-in .1s;
+                                }
+                                 .blue:hover{
+                                    width: 55px;
+                                    height: 55px;
+                                             }
+                                 .brown{
+                                        border: 5px solid white;
+                                    border-radius: 100%;
+                                    width: 50px;
+                                    height: 50px;
+                                    background-color: brown;
+                                    transition: ease-in .1s; 
+                                }
+                                 .brown:hover{
+                                    width: 55px;
+                                    height: 55px;
+                                             }
+                                             
+                                            .footer-flex{
+                                                display: flex;
+                                                flex-direction: column;
+                                                justify-content: space-around;
+                                                gap: 2rem;
+                                            }
+                                            footer{
+                                                background-color: coral;
+                                                height: 50%;
+                                                width: 100%;
+                                            }
+                                            footer h2{
+                                                color: white;
+                                                font-size: 30px;
+                                            }
+                                            footer h2 span{
+                                                color: gold;
+                                            }
+                                            footer p{
+                                                font-size: 20px;
+                                            }
+                                            .container2 h3{
+                                                font-size: 30px;
+                                                color: white;
+                                            }
+                                            .container2 li{
+                                                list-style-type: none;
+                                                
+                                            }
+                                            .container2 li a{
+                                                text-decoration: none;
+                                                font-size: 20px;
+                                                color: black;
+                                            }
+                                            .container2 li a:hover{
+                                                text-decoration: underline;
+                                                color: gold;
+                                            }
+                                            .container3 h4{
+                                                font-size: 30px;
+                                            color: white;
+                                            }
+                    }
+                    @media  screen and (min-width:500px) and (max-width:1023px) {
+                      .box1{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/firefox-browser.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    
+                    .box2{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/safari.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    
+                    .box3{
+                        width: 100%;
+                        height:50rem;
+                        background-image: url(./Images/google.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box4{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/chrome.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box5{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/css3-alt.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box6{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/html5.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box7{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/js.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                     
+                    .col-1{
+                        display: flex;
+                        flex-direction: column;
+                        gap: 2rem;
+                        align-items: center;
+                    }
+                    
+                    .col-2{
+                        display: flex;
+                        flex-direction: column;
+                        gap: 2rem;
+                        align-items: center;
+                    }
+                    .box8{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/stack-overflow.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box9{
+                        width: 100%;
+                        height: 50rem;
+                        background-image: url(./Images/github.svg);
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                    }
+                    .box10{
+                            width: 100%;
+                            height: 50rem;
+                            background-image: url(./Images/free-code-camp.svg);
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                        }
+                        .col-3{
+                            display: flex;
+                            flex-direction: column;
+                            gap: 2rem;
+                            align-items: center;
+                        }
+                        .box11{
+                            width: 100%;
+                            height: 50rem;
+                            background-image: url(./Images/visual-studio-code-1.svg);
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                        }
+                        .box12{
+                            width: 100%;
+                            height: 50rem;
+                            background-image: url(./Images/notepad-icon-17542.png);
+                            background-size: contain;
+                            background-repeat: no-repeat;
+                        }
+                        .col-4{
+                            display: flex;
+                            flex-direction: column;
+                            gap: 2rem;
+                            align-items: center;
+                        }
+                        .about{
+                          background-color: black;
+                          width: 100%;
+                          height: 50%;
+                       }
+                       #about-box{
+                          border-radius: 5px;
+                          width: 100%;
+                          height: 50%;
+                          background-color: gray;
+                       }
+                     .row{
+                        display: flex;
+                        align-items: center;
+                        flex-direction: column;
+                        gap: 2rem;
+                     }   
+.footer-flex{
+    display: flex;
+    flex-direction: column;
+}
+                    }
