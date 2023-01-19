@@ -1,4 +1,4 @@
-// alert('This Webpage Is Dedicated To All Web Designers In The World')
+alert('This Webpage Is Dedicated To All Web Designers In The World')
 
 function red(){
     var red = document.getElementById('about-box').style.backgroundColor = 'red'
